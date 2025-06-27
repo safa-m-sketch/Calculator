@@ -5,6 +5,6 @@ This project can perform addition, subtraction, multiplication, division, and pe
 
 Here are some keyboard shortcuts that are included in this program
 + - / * %
-Enter (on keyboard), which is the = button on the interface
-Backspace (on keyboard), which is to remove one digit
-Delete (on keyboard) to remove all digits
+- Enter (on keyboard), which is the = button on the interface
+- Backspace (on keyboard), which is used to remove one digit
+- Delete (on keyboard) to remove all digits
